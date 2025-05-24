@@ -16,7 +16,7 @@ This repository provides the 125 works discussed in the paper, which serves as t
 
 ## <a id="reference"></a>Reference
 
-If you find our [*survey*](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1) useful for your work or research, please kindly cite it:
+If you find our [*survey*](https://openreview.net/pdf?id=ThjDCZOljE) useful for your work or research, please kindly cite it:
 
 ```
 @article{mohammadkhani2025survey,
