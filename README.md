@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 id="survey-on-bridging-vlms-and-synthetic-data">[A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE)</h1>
+<h1 id="survey-on-bridging-vlms-and-synthetic-data"><a href="https://openreview.net/pdf?id=ThjDCZOljE">A Survey on Bridging VLMs and Synthetic Data</a></h1>
 
 </div>
 
@@ -29,7 +29,7 @@ If you find our paper useful for your work or research, please kindly cite it:
 
 - [Survey on Bridging VLMs and Synthetic data](#survey-on-bridging-vlms-and-synthetic-data)
   - [Abstract](#abstract)
-  - [Reference](#reference)
+  - [Citation](#citation)
   - [VLMs and Synthetic data](#vlms-synthetic-data)
     - [Instruction-Tuning & Alignment](#instruction-tuning--alignment)
     - [Evaluation](#evaluation)
