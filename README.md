@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 id="survey-on-bridging-vlms-and-synthetic-data"><a href="https://openreview.net/pdf?id=ThjDCZOljE">A Survey on Bridging VLMs and Synthetic Data</a></h1>
+<h1>VLMs and Synthetic Data</h1>
 
 </div>
 
@@ -9,6 +9,8 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 </div>
+
+<p id="survey">This repository includes the papers discussed in our survey paper titled "<a href="https://openreview.net/pdf?id=ThjDCZOljE">A Survey on Bridging VLMs and Synthetic Data</a>".</p>
 
 ## <a id="abstract"></a>Abstract
 
@@ -27,7 +29,7 @@ If you find our paper useful for your work or research, please kindly cite it:
 
 ## Table of Content
 
-- [Survey on Bridging VLMs and Synthetic data](#survey-on-bridging-vlms-and-synthetic-data)
+- [Survey on Bridging VLMs and Synthetic data](#survey)
   - [Abstract](#abstract)
   - [Citation](#citation)
   - [VLMs and Synthetic data](#vlms-synthetic-data)
