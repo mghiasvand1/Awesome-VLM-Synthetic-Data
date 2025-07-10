@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 id="survey-on-bridging-vlms-and-synthetic-data">A Survey on Bridging VLMs and Synthetic Data</h1>
+<h1 id="survey-on-bridging-vlms-and-synthetic-data">[A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE)</h1>
 
 </div>
 
@@ -10,14 +10,13 @@
 
 </div>
 
-## <a id="introduction"></a>Introduction
+## <a id="abstract"></a>Abstract
 
-This repository provides the 125 works discussed in the paper, which serves as the first comprehensive survey on bridging the concepts of VLMs and synthetic data, exploring both the role of synthetic data in VLMs and the role of VLMs in synthetic data.
+Vision-language models (VLMs) have significantly advanced multimodal AI by learning joint representations of visual and textual data. However, their progress is hindered by challenges in acquiring high-quality, aligned datasets, including issues of cost, privacy, and scarcity. On the other hand, synthetic data, created through the use of generative AI—which can even include VLMs—offers a scalable and cost-effective solution to these challenges. This paper presents the first comprehensive survey on bridging VLMs and synthetic data, exploring both the role of synthetic data in VLMs and the role of VLMs in synthetic data. First, we provide a preliminary overview by briefly explaining the architecture of two basic VLMs and, after studying a large number of previous works, offer an extensive survey of the previously proposed methodologies and potential future directions in this area.
 
-## <a id="reference"></a>Reference
+## <a id="citation"></a>Citation
 
-If you find our [*survey*](https://openreview.net/pdf?id=ThjDCZOljE) useful for your work or research, please kindly cite it:
-
+If you find our paper useful for your work or research, please kindly cite it:
 ```
 @article{mohammadkhani2025survey,
   title={A Survey on Bridging VLMs and Synthetic Data},
@@ -29,7 +28,7 @@ If you find our [*survey*](https://openreview.net/pdf?id=ThjDCZOljE) useful for 
 ## Table of Content
 
 - [Survey on Bridging VLMs and Synthetic data](#survey-on-bridging-vlms-and-synthetic-data)
-  - [Introduction](#introduction)
+  - [Abstract](#abstract)
   - [Reference](#reference)
   - [VLMs and Synthetic data](#vlms-synthetic-data)
     - [Instruction-Tuning & Alignment](#instruction-tuning--alignment)
