@@ -23,7 +23,9 @@ If you find our paper useful for your work or research, please kindly cite it:
 @article{mohammadkhani2025survey,
   title={A Survey on Bridging VLMs and Synthetic Data},
   author={Mohammadkhani, Mohammad Ghiasvand and Momtazi, Saeedeh and Beigy, Hamid},
-  year={2025}
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
 }
 ```
 
