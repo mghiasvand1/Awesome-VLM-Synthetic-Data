@@ -162,6 +162,7 @@ This section includes the surveyed works—grouped based on the main task they a
 - **COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation** | *Xueqing Deng, Qihang Yu, Ali Athar, Chenglin Yang, Linjie Yang, Xiaojie Jin, Xiaohui Shen, and Liang-Chieh Chen* | ArXiv (2025) | [*paper*](https://arxiv.org/pdf/2502.02589)
 - **Pixel-Level Reasoning Segmentation via Multi-turn Conversations** | *Dexian Cai, Xiaocui Yang, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, and Soujanya Poria* | ArXiv (2025) | [*paper*](https://arxiv.org/pdf/2502.09447)
 - **Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data** | *Haoxin Li, and Boyang Li* | ArXiv (2025) | [*paper*](https://arxiv.org/pdf/2503.01167)
+- **Synthetic visual genome** | *Jae Sung Park, Zixian Ma, Linjie Li, Chenhao Zheng, Cheng-Yu Hsieh, Ximing Lu, Khyathi Chandu, Quan Kong, Norimasa Kobori, Ali Farhadi, and Others* | CVPR (2025) | [*paper*](https://arxiv.org/pdf/2506.07643)
 
 ### <a id="video-centric-tasks"></a>Video-Centric Tasks
 - **Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning** | *Wujian Peng, Lingchen Meng, Yitong Chen, Yiweng Xie, Yang Liu, Tao Gui, Hang Xu, Xipeng Qiu, Zuxuan Wu, and Yu-Gang Jiang* | ArXiv (2024) | [*paper*](https://arxiv.org/pdf/2412.03565)
@@ -170,6 +171,7 @@ This section includes the surveyed works—grouped based on the main task they a
 - **Video instruction tuning with synthetic data** | *Yuanhan Zhang, Jinming Wu, Wei Li, Bo Li, Zejun Ma, Ziwei Liu, and Chunyuan Li* | ArXiv (2024) | [*paper*](https://arxiv.org/pdf/2410.02713)
 - **Cogvideox: Text-to-video diffusion models with an expert transformer** | *Zhuoyi Yang, Jiayan Teng, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, Yuanming Yang, Wenyi Hong, Xiaohan Zhang, Guanyu Feng, and Others* | ArXiv (2024) | [*paper*](https://arxiv.org/pdf/2408.06072)
 - **VITED: Video Temporal Evidence Distillation** | *Yujie Lu, Yale Song, William Wang, Lorenzo Torresani, and Tushar Nagarajan* | ArXiv (2025) | [*paper*](https://arxiv.org/pdf/2503.12855)
+- **Synthetic visual genome 2: Extracting large-scale spatio-temporal scene graphs from videos** | *Ziqi Gao, Jieyu Zhang, Wisdom Oluchi Ikezogwo, Jae Sung Park, Tario G. You, Daniel Ogbu, Chenhao Zheng, Weikai Huang, Yinuo Yang, Winson Han, and Others* | ArXiv (2026) | [*paper*](https://arxiv.org/pdf/2602.23543)
 
 ### <a id="user-interface--web-design"></a>User Interface & Web Design
 - **Dreamstruct: Understanding slides and user interfaces via synthetic data generation** | *Yi-Hao Peng, Faria Huq, Yue Jiang, Jason Wu, Xin Yue Li, Jeffrey P Bigham, and Amy Pavel* | ECCV (2024) | [*paper*](https://arxiv.org/pdf/2410.00201)
